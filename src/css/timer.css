@@ -1,0 +1,18 @@
+.timer {
+  display: flex;
+}
+.value {
+  font-size: 60px;
+}
+
+.field {
+  flex-direction: column;
+  flex-basis: 150px;
+  align-items: center;
+  font-size: 26px;
+  display: flex;
+  background-color: blue;
+  color: yellow;
+  border: 2px solid black;
+  margin-top: 10px;
+}
